@@ -1,0 +1,12 @@
+grab quote from api
+
+UI
+quote background picture
+button to click for a quote - be creative
+
+use chatbot to read the quote
+
+
+play around with different quotes
+
+inspirational, spiritial, funnt, ect
